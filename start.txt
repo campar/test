@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Novi komit
+=======
+"pera trta" 
+a
+>>>>>>> cc96c8e0c90a96333b003864f2523fbd6ce009bf

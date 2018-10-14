@@ -4,4 +4,12 @@ skroz novo
 nije novo
 
 
+<<<<<<< HEAD
 dodajmeo
+=======
+
+
+
+skoro pa novo
+
+>>>>>>> cc96c8e0c90a96333b003864f2523fbd6ce009bf
