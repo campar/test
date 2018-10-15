@@ -1,4 +1,7 @@
 body{
 	margin: 100px;
 	color: red;
+	background: black;
+	padding: 40px;
+	justify-content: center;
 }
