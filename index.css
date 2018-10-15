@@ -1,4 +1,7 @@
 body{
 	margin: 100px;
 	color: red;
+	background: green;
+	justify-content: top;
+	margin-top: 30px;
 }
