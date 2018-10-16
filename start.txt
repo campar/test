@@ -1,1 +1,7 @@
-a
+commit 886d8fedb33bcb5ed4f4a05b3fa44623c9927974
+Merge: 69f0c81 ff69a8b
+Author: campar <kralj.david.david@gmail.com>
+Date:   Wed Oct 17 00:50:36 2018 +0200
+
+    Merge branch 'marko'
+
